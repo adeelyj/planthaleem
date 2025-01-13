@@ -52,6 +52,13 @@
             "url": "/",
             "icon": "mail",
             "type": "Social"
+        },
+        {
+            "type": "Social",
+            "altText": "Instagram link",
+            "url": "/planthaleem",
+            "icon": "instagram",
+            "elementId": ""
         }
     ],
     "legalLinks": [
