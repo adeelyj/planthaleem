@@ -32,7 +32,7 @@ bottomSections:
       type: TitleBlock
       text: How can we help?
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: ''
     text: ''
     actions: []
     media:
