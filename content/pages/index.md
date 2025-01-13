@@ -114,7 +114,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Berlin
-        tagline: This is the tagline
+        tagline: 'Its Berlin :)'
         subtitle: Coming soon!
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
