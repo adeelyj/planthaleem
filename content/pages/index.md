@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Tradition meets transformation
+      text: plantHaleem
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
