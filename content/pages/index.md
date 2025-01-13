@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: plantHaleem
+      label: ''
       color: text-primary
       type: Badge
     elementId: ''
