@@ -92,7 +92,7 @@ sections:
     items:
       - title: Munich
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Stylt coworking space
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
