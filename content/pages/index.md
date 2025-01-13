@@ -8,7 +8,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Tradition meets transformation
-    text: >+
+    text: >
       At **PlantHaleem**, we honor the rich heritage of Haleem—a dish cherished
       for centuries as a symbol of comfort, celebration, and community.
       Traditionally slow-cooked to perfection, Haleem has nourished hearts and
@@ -20,12 +20,6 @@ sections:
       ancient spices, wholesome grains, and protein-packed legumes,
       **PlantHaleem** offers a deliciously vegan twist on tradition—perfect for
       conscious eaters who crave flavor without compromise.
-
-
-      Rediscover Haleem—redefined for today, rooted in history.
-
-
-
     actions:
       - label: Learn more
         altText: ''
