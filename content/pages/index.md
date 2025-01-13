@@ -312,7 +312,7 @@ sections:
         altText: ''
         url: /rich-history-of-haleem
         showIcon: false
-        icon: arrowLeft
+        icon: chevronRight
         iconPosition: left
         style: secondary
         elementId: ''
