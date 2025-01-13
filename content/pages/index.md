@@ -306,16 +306,7 @@ sections:
       centuries. From its origins in the Middle East to its beloved South Asian
       status, haleem tells a story of cultural fusion and culinary excellence. 
 
-    actions:
-      - type: Button
-        label: Learn more
-        altText: ''
-        url: /rich-history-of-haleem
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
+    actions: []
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
