@@ -1,5 +1,5 @@
 ---
-title: History of Haleem
+title: 'The Rich History of Haleem: A Global Culinary Treasure'
 slug: top-ten-lessons-we-learned
 date: '2025-01-02'
 excerpt: >-
