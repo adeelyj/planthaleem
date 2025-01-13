@@ -137,7 +137,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Amsterdam
+      - title: Order for your event
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: >
