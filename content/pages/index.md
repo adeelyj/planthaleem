@@ -262,7 +262,7 @@ sections:
         type: FeaturedItem
     actions: []
     badge:
-      label: This is a badge
+      label: our recipe
       color: text-primary
       styles:
         self:
