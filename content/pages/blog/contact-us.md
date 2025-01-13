@@ -30,7 +30,7 @@ bottomSections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: How can we help?
+      text: ''
       color: text-dark
     subtitle: ''
     text: ''
