@@ -91,7 +91,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - title: Munich
-        tagline: This is the tagline
+        tagline: Our birthspot!
         subtitle: Stylt coworking space
         text: |
           We are here every weekday during 12-14 Uhr
