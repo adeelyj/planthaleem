@@ -116,7 +116,7 @@ sections:
         type: FeaturedItem
       - title: Berlin
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Coming soon!
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
