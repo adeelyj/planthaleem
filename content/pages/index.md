@@ -593,7 +593,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: Locations
       color: text-primary
       styles:
         self:
