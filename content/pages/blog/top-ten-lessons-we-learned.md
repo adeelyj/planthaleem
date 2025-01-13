@@ -24,7 +24,6 @@ styles:
   self:
     flexDirection: row
 type: PostLayout
-author: content/data/person1.json
 ---
 Haleem, a dish of timeless appeal, has a history as rich and layered as its flavor. Originating in the Middle East, this hearty stew is a testament to the intermingling of cultures, trade, and culinary innovation over centuries.
 
