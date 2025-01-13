@@ -308,7 +308,7 @@ sections:
 
     actions:
       - type: Link
-        label: See Tutorials
+        label: Learn more
         altText: ''
         url: /rich-history-of-haleem
         showIcon: true
