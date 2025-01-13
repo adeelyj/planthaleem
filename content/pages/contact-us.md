@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Contact us
       color: text-dark
-    subtitle: Contact us
+    subtitle: ''
     text: |
       Approach us for catering opportunities
     actions: []
