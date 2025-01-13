@@ -310,7 +310,7 @@ sections:
       - type: Link
         label: Learn more
         altText: ''
-        url: /rich-history-of-haleem
+        url: posts/rich-history-of-haleem
         showIcon: true
         icon: arrowRight
         iconPosition: right
