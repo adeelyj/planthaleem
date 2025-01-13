@@ -84,7 +84,7 @@ bottomSections:
           borderRadius: large
     colors: bg-light-fg-dark
 slug: contact-us
-isFeatured: true
+isFeatured: false
 isDraft: false
 seo:
   type: Seo
