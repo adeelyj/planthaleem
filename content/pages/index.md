@@ -300,11 +300,12 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: When cultures meet
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+
+      Haleem is a beloved dish with a rich history spanning continents and
+      centuries. From its origins in the Middle East to its beloved South Asian
+      status, haleem tells a story of cultural fusion and culinary excellence. 
+
     actions: []
     media:
       title: Title of the video
