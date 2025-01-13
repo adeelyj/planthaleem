@@ -7,7 +7,7 @@ sections:
       type: TitleBlock
       text: Would you like to invite us to your event/city?
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: Catering opportunities are welcome!
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
