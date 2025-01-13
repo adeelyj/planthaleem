@@ -181,7 +181,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: A complete meal
     items:
       - type: FeaturedItem
         title: Spices
