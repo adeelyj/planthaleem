@@ -293,7 +293,7 @@ sections:
     type: DividerSection
   - type: GenericSection
     title:
-      text: History of Haleem
+      text: Rich history of Haleem
       color: text-dark
       styles:
         self:
