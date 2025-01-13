@@ -343,7 +343,7 @@ sections:
         flexDirection: row
         justifyContent: center
         padding:
-          - pl-7
+          - pl-0
       subtitle:
         textAlign: left
   - title: Divider
