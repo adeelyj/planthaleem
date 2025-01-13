@@ -168,7 +168,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Ingredients
+  - subtitle: Herbs & Spices
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
