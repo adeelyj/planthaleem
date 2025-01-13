@@ -311,7 +311,7 @@ sections:
         label: See Tutorials
         altText: ''
         url: /rich-history-of-haleem
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
