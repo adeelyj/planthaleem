@@ -1,6 +1,6 @@
 ---
 title: 'The Rich History of Haleem: A Global Culinary Treasure'
-slug: top-ten-lessons-we-learned
+slug: rich-history-of-haleem
 date: '2025-01-02'
 excerpt: >-
   Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
