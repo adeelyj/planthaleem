@@ -94,7 +94,7 @@ sections:
         tagline: This is the tagline
         subtitle: Stylt coworking space
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          We are here every weekday during 12-14 Uhr
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
