@@ -307,11 +307,11 @@ sections:
       status, haleem tells a story of cultural fusion and culinary excellence. 
 
     actions:
-      - type: Button
+      - type: Link
         label: Learn more
         altText: ''
         url: /rich-history-of-haleem
-        showIcon: false
+        showIcon: true
         icon: arrowRight
         iconPosition: right
         style: secondary
