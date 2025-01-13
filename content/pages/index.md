@@ -140,8 +140,8 @@ sections:
         tagline: This is the tagline
         subtitle: Catering opportunities are welcome
         text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+          If you want us to serve this delicious delicacy at your events,
+          contact us!
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
