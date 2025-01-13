@@ -5,30 +5,6 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Contact us
-      color: text-dark
-    subtitle: ''
-    text: |
-      Approach us for catering opportunities
-    actions: []
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-  - type: GenericSection
-    title:
-      type: TitleBlock
       text: Generic Section With A Form
       color: text-dark
     subtitle: Section with a form subtitle
