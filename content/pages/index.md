@@ -23,7 +23,7 @@ sections:
     actions:
       - label: Learn more
         altText: ''
-        url: /
+        url: /what-is-plant-haleem
         showIcon: true
         icon: arrowRight
         iconPosition: right
