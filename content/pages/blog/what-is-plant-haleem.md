@@ -97,10 +97,15 @@ styles:
   self:
     flexDirection: row
 ---
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis.
+PlantHaleem is a revolutionary take on one of the world's most beloved dishes, haleem. By reimagining this traditional delicacy with plant-based ingredients, we’ve crafted a meal that celebrates heritage while embracing modern dietary preferences. Rooted in culture and designed for today’s conscious consumers, PlantHaleem delivers the rich, hearty flavor you love—without compromise.
 
-> Vestibulum ullamcorper risus auctor eleifend consequat.
+Haleem has long been cherished for its soul-warming blend of wheat, lentils, and spices, traditionally paired with slow-cooked meat. At PlantHaleem, we’ve recreated this iconic dish using high-quality plant-based proteins that mirror the taste and texture of the original while offering a more sustainable and ethical choice. Whether you’re vegan, vegetarian, or simply looking to reduce your meat consumption, PlantHaleem offers a guilt-free way to indulge in this culinary masterpiece.
 
-In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+Our target audience includes health-conscious food lovers, eco-conscious individuals, and those with an appreciation for global cuisines. Whether you're observing cultural traditions, hosting a dinner, or just seeking a flavorful and nutritious meal, PlantHaleem is the perfect choice. It’s packed with essential nutrients, high in protein, and free from cholesterol, making it as wholesome as it is delicious.
 
-Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+PlantHaleem isn’t just a dish; it’s a movement. By choosing PlantHaleem, you’re supporting a future where food is not only flavorful but also kind to the planet. It’s the perfect blend of tradition, innovation, and sustainability—a bowl of history with a dash of modernity.
+
+Experience the magic of haleem like never before with PlantHaleem: a hearty, plant-powered celebration of flavor and culture.
+
+
+
