@@ -181,7 +181,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: A complete meal
+    subtitle: A complete meal containing rich ingredients..
     items:
       - type: FeaturedItem
         title: Spices
