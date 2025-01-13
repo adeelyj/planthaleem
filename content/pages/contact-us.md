@@ -8,10 +8,8 @@ sections:
       text: Unblock your team boost your time to production
       color: text-dark
     subtitle: Contact us
-    text: >
-      A Netlify website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: |
+      Approach us for catering opportunities
     actions:
       - type: Button
         label: Get started
