@@ -25,7 +25,6 @@
     "type": "Header",
     "logo": {
         "type": "ImageBlock",
-        "url": "/images/logo.png",
         "altText": "Image alt text placeholder",
         "elementId": "",
         "styles": {
