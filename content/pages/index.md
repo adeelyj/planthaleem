@@ -83,7 +83,7 @@ sections:
         textAlign: center
     type: ImageGallerySection
   - title:
-      text: Locations
+      text: Where can you try our food?
       color: text-primary
       styles:
         self:
