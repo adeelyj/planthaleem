@@ -137,7 +137,7 @@ sections:
             flexDirection: col
         type: FeaturedItem
       - title: Order for your event
-        tagline: This is the tagline
+        tagline: Invite us
         subtitle: Catering opportunities are welcome
         text: >
           If you want us to serve this delicious delicacy at your events,
