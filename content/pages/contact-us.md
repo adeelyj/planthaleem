@@ -10,16 +10,7 @@ sections:
     subtitle: Contact us
     text: |
       Approach us for catering opportunities
-    actions:
-      - type: Button
-        label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
+    actions: []
     media:
       type: ImageBlock
       url: /images/main-hero.svg
