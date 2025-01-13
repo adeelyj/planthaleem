@@ -138,7 +138,7 @@ sections:
         type: FeaturedItem
       - title: Order for your event
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Catering opportunities are welcome
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
