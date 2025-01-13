@@ -341,7 +341,9 @@ sections:
     styles:
       self:
         flexDirection: row
-        justifyContent: center
+        justifyContent: flex-start
+        padding:
+          - pl-0
       subtitle:
         textAlign: left
   - title: Divider
