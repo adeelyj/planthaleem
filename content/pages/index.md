@@ -119,7 +119,7 @@ sections:
         text: |
           We are looking for a suitable spot in Berlin
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/03_berlin.avif
           altText: Placeholder image
           styles:
             self:
