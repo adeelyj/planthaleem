@@ -1,10 +1,5 @@
 {
-    "logo": {
-        "url": "/images/logo-white.svg",
-        "altText": "Logo light",
-        "type": "ImageBlock"
-    },
-    "text": "Tradition meets transformation\n",
+    "text": "",
     "secondaryLinks": {
         "title": "Company",
         "links": [
@@ -28,27 +23,7 @@
         ],
         "type": "FooterLinksGroup"
     },
-    "socialLinks": [
-        {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
-            "altText": "Email link",
-            "url": "/",
-            "icon": "mail",
-            "type": "Social"
-        },
-        {
-            "type": "Social",
-            "altText": "Instagram link",
-            "url": "/planthaleem",
-            "icon": "instagram",
-            "elementId": ""
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [
         {
             "label": "Terms",
@@ -59,7 +34,7 @@
             "type": "Link"
         }
     ],
-    "copyrightText": "",
+    "copyrightText": "A product of planti.sh\n",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
