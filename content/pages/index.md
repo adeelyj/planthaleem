@@ -34,7 +34,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
-      url: /images/logo.png
+      url: /images/02_PlantHaleem.jpg
     badge:
       label: ''
       color: text-primary
