@@ -34,7 +34,7 @@ sections:
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
-      url: /images/logo.png
+      url: /images/02_PlantHaleem.jpg
     badge:
       label: ''
       color: text-primary
@@ -50,37 +50,6 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - subtitle: Herbs & Spices
-    images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
-        type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - title:
       text: Where can you try our food?
       color: text-primary
@@ -96,7 +65,7 @@ sections:
         text: |
           We are here every weekday during 12-14 Uhr
         image:
-          url: /images/sanity-logo.svg
+          url: /images/03_munich.jpg
           altText: Placeholder Image
           styles:
             self:
@@ -119,7 +88,7 @@ sections:
         text: |
           We are looking for a suitable spot in Berlin
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/03_berlin.avif
           altText: Placeholder image
           styles:
             self:
@@ -143,7 +112,7 @@ sections:
           If you want us to serve this delicious delicacy at your events,
           contact us!
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/03_catering.webp
           altText: Placeholder image
           styles:
             self:
@@ -185,11 +154,9 @@ sections:
     items:
       - type: FeaturedItem
         title: Spices
-        subtitle: Numbers Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: More than 20 spices!
+        text: |
+          A cocktail of spices
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -208,18 +175,16 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: /images/icon1.svg
+          url: /images/04_spices.webp
           styles:
             self:
               borderRadius: x-large
       - title: Lentils
-        subtitle: The Job Stuff
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: 3 types of lentils
+        text: |
+          Proteins, protien, protien
         image:
-          url: /images/icon2.svg
+          url: /images/04_lentils.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
@@ -238,13 +203,11 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Plant-based meat
-        subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        subtitle: No compromises!
+        text: |
+          Our secret sauce to build an authentic taste
         image:
-          url: /images/icon3.svg
+          url: /images/04_plantmeat.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
@@ -316,26 +279,6 @@ sections:
         iconPosition: right
         style: primary
         elementId: ''
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      autoplay: true
-      loop: true
-      muted: true
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
     elementId: null
     colors: bg-light-fg-dark
     styles:
@@ -346,6 +289,14 @@ sections:
           - pl-0
       subtitle:
         textAlign: left
+    media:
+      type: ImageBlock
+      url: /images/05_historyhaleem.jpg
+      altText: Image alt text placeholder
+      elementId: ''
+      styles:
+        self:
+          borderRadius: medium
   - title: Divider
     colors: bg-light-fg-dark
     styles:
