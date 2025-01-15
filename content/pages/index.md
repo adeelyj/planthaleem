@@ -154,7 +154,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Spices
-        subtitle: Numbers Done
+        subtitle: More than 20 spices!
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
