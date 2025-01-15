@@ -1,9 +1,4 @@
 {
-    "logo": {
-        "url": "/images/01_logo.png",
-        "altText": "Logo light",
-        "type": "ImageBlock"
-    },
     "text": "Tradition meets transformation\n",
     "secondaryLinks": {
         "title": "Company",
