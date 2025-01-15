@@ -143,7 +143,7 @@ sections:
           If you want us to serve this delicious delicacy at your events,
           contact us!
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/03_catering.webp
           altText: Placeholder image
           styles:
             self:
