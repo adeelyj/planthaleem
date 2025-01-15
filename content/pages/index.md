@@ -31,10 +31,10 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
+      url: /images/logo.png
     badge:
       label: ''
       color: text-primary
@@ -96,7 +96,7 @@ sections:
         text: |
           We are here every weekday during 12-14 Uhr
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/sanity-logo.svg
           altText: Placeholder Image
           styles:
             self:
@@ -357,15 +357,13 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Contact us
+      text: Would you like to invite us to your event/city?
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    subtitle: Catering opportunities are welcome!
+    text: >
+      Leave a query through our webforms or approach us directly via
+      [Whatspp](https://wa.me/qr/MXY533KPT32ZE1)
     media:
       fields:
         - name: name

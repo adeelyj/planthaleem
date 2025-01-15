@@ -8,8 +8,9 @@ sections:
       text: Would you like to invite us to your event/city?
       color: text-dark
     subtitle: Catering opportunities are welcome!
-    text: |
-      For events and catering approach us via this form
+    text: >
+      Leave a query through our webforms or approach us directly via
+      [Whatspp](https://wa.me/qr/MXY533KPT32ZE1)
     actions: []
     media:
       type: FormBlock
