@@ -96,7 +96,7 @@ sections:
         text: |
           We are here every weekday during 12-14 Uhr
         image:
-          url: /images/sanity-logo.svg
+          url: /images/03_munich.jpg
           altText: Placeholder Image
           styles:
             self:
