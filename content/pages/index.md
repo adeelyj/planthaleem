@@ -96,7 +96,7 @@ sections:
         text: |
           We are here every weekday during 12-14 Uhr
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/sanity-logo.svg
           altText: Placeholder Image
           styles:
             self:
