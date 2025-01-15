@@ -28,15 +28,7 @@
         ],
         "type": "FooterLinksGroup"
     },
-    "socialLinks": [
-        {
-            "type": "Social",
-            "altText": "Instagram link",
-            "url": "/planthaleem",
-            "icon": "instagram",
-            "elementId": ""
-        }
-    ],
+    "socialLinks": [],
     "legalLinks": [
         {
             "label": "Terms",
