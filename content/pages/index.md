@@ -155,10 +155,8 @@ sections:
       - type: FeaturedItem
         title: Spices
         subtitle: More than 20 spices!
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          A cocktail of spices
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
