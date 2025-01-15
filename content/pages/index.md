@@ -203,7 +203,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Plant-based meat
-        subtitle: Faster
+        subtitle: No compromises!
         text: |
           Our secret sauce to build an authentic taste
         image:
