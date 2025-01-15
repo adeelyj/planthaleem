@@ -204,10 +204,8 @@ sections:
         type: FeaturedItem
       - title: Plant-based meat
         subtitle: Faster
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Our secret sauce to build an authentic taste
         image:
           url: /images/04_plantmeat.png
           altText: Featured icon three
