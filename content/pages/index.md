@@ -357,7 +357,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Contact us
+      text: Would you like to invite us to your event/city?
       color: text-dark
       type: TitleBlock
     subtitle: Section with a form subtitle
