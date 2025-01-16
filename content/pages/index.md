@@ -61,7 +61,7 @@ sections:
     items:
       - title: Munich
         tagline: Our birthspot!
-        subtitle: Stylt coworking space
+        subtitle: Coming Soon
         text: |
           We are looking for a suitable spot in Munich
         image:
