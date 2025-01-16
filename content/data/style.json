@@ -15,9 +15,9 @@
         "type": "ThemeStyleHeading"
     },
     "h2": {
-        "size": "5xl",
+        "size": "4xl",
         "weight": "normal",
-        "decoration": "underline",
+        "decoration": "line-through",
         "case": "none",
         "letterSpacing": "tighter",
         "type": "ThemeStyleHeading"
