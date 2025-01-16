@@ -9,7 +9,7 @@
     "h1": {
         "size": "5xl",
         "weight": "normal",
-        "decoration": "none",
+        "decoration": "underline",
         "case": "none",
         "letterSpacing": "wide",
         "type": "ThemeStyleHeading"
