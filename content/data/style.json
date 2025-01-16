@@ -17,7 +17,7 @@
     "h2": {
         "size": "5xl",
         "weight": "normal",
-        "decoration": "none",
+        "decoration": "underline",
         "case": "none",
         "letterSpacing": "normal",
         "type": "ThemeStyleHeading"
