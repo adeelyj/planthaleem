@@ -61,9 +61,9 @@ sections:
     items:
       - title: Munich
         tagline: Our birthspot!
-        subtitle: Stylt coworking space
+        subtitle: Coming Soon
         text: |
-          We are here every weekday during 12-14 Uhr
+          We are looking for a suitable spot in Munich
         image:
           url: /images/03_munich.jpg
           altText: Placeholder Image
