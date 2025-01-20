@@ -36,7 +36,7 @@ PlantHaleem is a modern take on one of the subcontinent's most beloved dishes, h
 
 Haleem has long been cherished for its soul-warming blend of wheat, lentils, and spices, traditionally paired with slow-cooked meat. At PlantHaleem, we’ve recreated this iconic dish using high-quality plant-based proteins that mirror the taste and texture of the original while offering a more sustainable and ethical choice. Whether vegan, vegetarian, or simply looking to reduce your meat consumption, PlantHaleem offers a guilt-free way to indulge in this culinary masterpiece.
 
-Our target audience includes health-conscious food lovers, eco-conscious individuals, and those who appreciate global cuisines. Whether observing cultural traditions, hosting a dinner, or just seeking a flavorful and nutritious meal, PlantHaleem is the perfect choice. It’s packed with essential nutrients, high in protein, and free from cholesterol, making it as wholesome as it is delicious.
+Our target audience includes health-conscious food lovers, eco-conscious individuals, and those who appreciate global cuisines. Whether observing cultural traditions, hosting a dinner, or just seeking a flavorful and nutritious meal, PlantHaleem is the perfect choice. It’s packed with essential nutrients, high in protein, and contains many spices to kick your metabolism, making it as wholesome as it is delicious.
 
 PlantHaleem is a flavorful bowl of history with a dash of modernity.
 
