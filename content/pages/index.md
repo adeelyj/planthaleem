@@ -245,7 +245,7 @@ sections:
       subtitle:
         textAlign: center
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: Image gallery
     items:
       - type: FeaturedItem
         title: Idea testing at a community kitchen event!
