@@ -297,7 +297,7 @@ sections:
             flexDirection: col-reverse
       - type: FeaturedItem
         title: 'Cooking Haleem with family :)'
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: ''
         image:
