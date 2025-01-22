@@ -10,7 +10,7 @@ sections:
     subtitle: Catering opportunities are welcome!
     text: >
       Leave a query through our webforms or approach us directly via
-      [Whatspp](https://wa.me/qr/MXY533KPT32ZE1)
+      [WhatsApp](https://wa.me/qr/MXY533KPT32ZE1)
     actions: []
     media:
       type: FormBlock
