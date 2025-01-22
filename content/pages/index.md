@@ -250,7 +250,7 @@ sections:
       - type: FeaturedItem
         title: Idea testing at a community kitchen event!
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
