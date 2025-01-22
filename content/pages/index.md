@@ -274,7 +274,7 @@ sections:
       - type: FeaturedItem
         title: 'Experimenting in my kitchen :)'
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: ''
         image:
           type: ImageBlock
