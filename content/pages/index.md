@@ -249,7 +249,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Idea testing at a community kitchen event!
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify Create site.
