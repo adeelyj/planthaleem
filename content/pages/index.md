@@ -246,11 +246,7 @@ sections:
         textAlign: center
   - type: ImageGallerySection
     subtitle: Our customers
-    images:
-      - type: ImageBlock
-        url: /images/empathy-logo.svg
-        altText: Empathy logo
-        elementId: ''
+    images: []
     elementId: ''
     motion: static
     colors: bg-light-fg-dark
