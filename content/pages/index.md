@@ -182,7 +182,7 @@ sections:
       - title: Lentils
         subtitle: 3 types of lentils
         text: |
-          Protiens, protien, protien
+          Protien, protien, protien
         image:
           url: /images/04_lentils.png
           altText: Featured icon two
