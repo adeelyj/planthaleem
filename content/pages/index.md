@@ -254,7 +254,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/2004-Haleem (67).JPG
+          url: /images/DSCF9596.JPG
           altText: Placeholder text
           styles:
             self:
