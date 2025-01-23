@@ -254,7 +254,7 @@ sections:
         text: ''
         image:
           type: ImageBlock
-          url: /images/DSCF9596.JPG
+          url: /images/DSCF9596.jpg
           altText: Placeholder text
           styles:
             self:
