@@ -57,7 +57,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: ''
     items:
       - title: Munich
         tagline: Our birthspot!
@@ -182,7 +182,7 @@ sections:
       - title: Lentils
         subtitle: 3 types of lentils
         text: |
-          Proteins, protien, protien
+          Protien, protien, protien
         image:
           url: /images/04_lentils.png
           altText: Featured icon two
@@ -241,6 +241,62 @@ sections:
           - pt-16
           - pl-16
           - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
+  - type: CarouselSection
+    subtitle: Image gallery
+    items:
+      - type: FeaturedItem
+        title: Idea testing at a community kitchen event!
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/DSCF9596.jpg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col-reverse
+      - type: FeaturedItem
+        title: 'Cooking Haleem with family (Year 1999) :)'
+        tagline: ''
+        subtitle: ''
+        text: ''
+        image:
+          type: ImageBlock
+          url: /images/2004-Haleem (67).jpg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col-reverse
+    variant: next-prev-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
         justifyContent: center
       subtitle:
         textAlign: center
@@ -314,7 +370,7 @@ sections:
     subtitle: Catering opportunities are welcome!
     text: >
       Leave a query through our webforms or approach us directly via
-      [Whatspp](https://wa.me/qr/MXY533KPT32ZE1)
+      [WhatsApp](https://wa.me/qr/MXY533KPT32ZE1)
     media:
       fields:
         - name: name
